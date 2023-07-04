@@ -18,5 +18,5 @@ Proyectos 🎮🕹️VIdeogames: Un proyecto que cree desde la DB, Back-End y po
 
 Si deseas contactar conmigo te dejo mis redes:
 
-Linkedin: https://www.linkedin.com/in/cristian-garcia-full-stack/
-Gmail: cristiangarciaj38@gmail.com
+🟦Linkedin: https://www.linkedin.com/in/cristian-garcia-full-stack/
+✉️ Gmail: cristiangarciaj38@gmail.com
