@@ -14,12 +14,14 @@ Habilidades:
 
 ⚙️ Node.js: Cuento con un sólido dominio de Node.js, un entorno de ejecución que permite ejecutar código JavaScript en el lado del servidor. Puedo construir aplicaciones escalables y eficientes en el lado del servidor, manejar sistemas de archivos e interactuar con bases de datos.
 
-Proyectos:
+Proyectos
 
-🎮🕹️VIdeogames: Un proyecto que cree desde la DB, Back-End y por último el Front-End, en está pagina web se almacenaba una lista de videojuegos traidas por una API. Las tencnologias que implementé fueron React, Redux, Express. Además, manejando un flujo de CSS para la parte visual. 
-🍹 E-commerce de Bebidas Alcohólicas: Creé una plataforma de comercio electrónico completa utilizando React, Redux y Express. Implementé características como listado de productos, funcionalidad de carrito de compras, autenticación de usuarios e integración de pago seguro.
+-🎮🕹️VIdeogames: Un proyecto que cree desde la DB, Back-End y por último el Front-End, en está pagina web se almacenaba una lista de videojuegos traidas por una API. Las tencnologias que implementé fueron React, Redux, Express. Además, manejando un flujo de CSS para la parte visual. 
 
-Si deseas contactar conmigo te dejo mis redes:
+-🍹 E-commerce de Bebidas Alcohólicas: Creé una plataforma de comercio electrónico completa utilizando React, Redux y Express. Implementé características como listado de productos, funcionalidad de carrito de compras, autenticación de usuarios e integración de pago seguro.
+
+Si deseas contactar conmigo te dejo mis redes
 
 🟦Linkedin: https://www.linkedin.com/in/cristian-garcia-full-stack/
+
 ✉️ Gmail: cristiangarciaj38@gmail.com
