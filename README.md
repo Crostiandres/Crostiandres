@@ -1,6 +1,6 @@
 Desarrollador Full Stack
 
-¡Hola! Soy un joven apasionado por el Front -End con una fuerte curiosidad y dedicación para resolver problemas. Me encanta el mundo del front-end y disfruto dedicar muchas horas para encontrar respuestas y soluciones. Busco oportunidades para seguir creciendo y aprender en el campo de la Técnologia. Además, crear experiencia como Full Stack y llevar mis propuestas a diferentes areas de la programación.
+Soy un apasionado Full Stack Web Developer, dedicado a la programación y desarrollo web. Busco constantemente oportunidades de crecimiento en el campo, mientras aporto mis ideas y conocimientos en diversos proyectos para hacer una diferencia significativa.
 
 Habilidades:
 
